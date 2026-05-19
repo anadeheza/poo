@@ -7,7 +7,7 @@ namespace SistemaDeportivos
         static void Main(string[] args)
         {
             Console.WriteLine("=== PROBANDO JUGADOR AMATEUR ===");
-            Jugador amateur = new Amateur();
+            IJugador amateur = new Amateur();
             
             amateur.Correr(15); 
             amateur.Correr(10); 
@@ -16,7 +16,7 @@ namespace SistemaDeportivos
             amateur.Correr(5);  
 
             Console.WriteLine("\n=== PROBANDO JUGADOR PROFESIONAL ===");
-            Jugador profesional = new Profesional();
+            IJugador profesional = new Profesional();
             
             profesional.Correr(30); 
             profesional.Correr(15); 

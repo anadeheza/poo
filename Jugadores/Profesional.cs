@@ -2,7 +2,7 @@
 
 namespace SistemaDeportivos
 {
-    public class Profesional : Jugador
+    public class Profesional : IJugador
     {
         public int _minutosCorridos = 0;
         public const int MaxMinutos = 40;
