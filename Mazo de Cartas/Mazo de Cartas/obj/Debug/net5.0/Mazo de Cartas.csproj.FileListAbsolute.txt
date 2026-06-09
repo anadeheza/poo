@@ -1,0 +1,15 @@
+C:\Ana\Escuela\poo\practicas\Mazo de Cartas\Mazo de Cartas\bin\Debug\net5.0\Mazo de Cartas.exe
+C:\Ana\Escuela\poo\practicas\Mazo de Cartas\Mazo de Cartas\bin\Debug\net5.0\Mazo de Cartas.deps.json
+C:\Ana\Escuela\poo\practicas\Mazo de Cartas\Mazo de Cartas\bin\Debug\net5.0\Mazo de Cartas.runtimeconfig.json
+C:\Ana\Escuela\poo\practicas\Mazo de Cartas\Mazo de Cartas\bin\Debug\net5.0\Mazo de Cartas.runtimeconfig.dev.json
+C:\Ana\Escuela\poo\practicas\Mazo de Cartas\Mazo de Cartas\bin\Debug\net5.0\Mazo de Cartas.dll
+C:\Ana\Escuela\poo\practicas\Mazo de Cartas\Mazo de Cartas\bin\Debug\net5.0\Mazo de Cartas.pdb
+C:\Ana\Escuela\poo\practicas\Mazo de Cartas\Mazo de Cartas\obj\Debug\net5.0\Mazo de Cartas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ana\Escuela\poo\practicas\Mazo de Cartas\Mazo de Cartas\obj\Debug\net5.0\Mazo de Cartas.AssemblyInfoInputs.cache
+C:\Ana\Escuela\poo\practicas\Mazo de Cartas\Mazo de Cartas\obj\Debug\net5.0\Mazo de Cartas.AssemblyInfo.cs
+C:\Ana\Escuela\poo\practicas\Mazo de Cartas\Mazo de Cartas\obj\Debug\net5.0\Mazo de Cartas.csproj.CoreCompileInputs.cache
+C:\Ana\Escuela\poo\practicas\Mazo de Cartas\Mazo de Cartas\obj\Debug\net5.0\Mazo de Cartas.dll
+C:\Ana\Escuela\poo\practicas\Mazo de Cartas\Mazo de Cartas\obj\Debug\net5.0\refint\Mazo de Cartas.dll
+C:\Ana\Escuela\poo\practicas\Mazo de Cartas\Mazo de Cartas\obj\Debug\net5.0\Mazo de Cartas.pdb
+C:\Ana\Escuela\poo\practicas\Mazo de Cartas\Mazo de Cartas\obj\Debug\net5.0\Mazo de Cartas.genruntimeconfig.cache
+C:\Ana\Escuela\poo\practicas\Mazo de Cartas\Mazo de Cartas\obj\Debug\net5.0\ref\Mazo de Cartas.dll

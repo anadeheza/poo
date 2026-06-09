@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Ana\\Escuela\\poo\\practicas\\Jugador-cansado\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB7552D-B7DA-D068-96F2-7EE5FD7A4B93}|Jugador-cansado\\Jugador-cansado.csproj|c:\\ana\\escuela\\poo\\practicas\\jugador-cansado\\jugador-cansado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB7552D-B7DA-D068-96F2-7EE5FD7A4B93}|Jugador-cansado\\Jugador-cansado.csproj|solutionrelative:jugador-cansado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB7552D-B7DA-D068-96F2-7EE5FD7A4B93}|Jugador-cansado\\Jugador-cansado.csproj|c:\\ana\\escuela\\poo\\practicas\\jugador-cansado\\jugador-cansado\\ijugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB7552D-B7DA-D068-96F2-7EE5FD7A4B93}|Jugador-cansado\\Jugador-cansado.csproj|solutionrelative:jugador-cansado\\ijugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB7552D-B7DA-D068-96F2-7EE5FD7A4B93}|Jugador-cansado\\Jugador-cansado.csproj|c:\\ana\\escuela\\poo\\practicas\\jugador-cansado\\jugador-cansado\\pro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB7552D-B7DA-D068-96F2-7EE5FD7A4B93}|Jugador-cansado\\Jugador-cansado.csproj|solutionrelative:jugador-cansado\\pro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB7552D-B7DA-D068-96F2-7EE5FD7A4B93}|Jugador-cansado\\Jugador-cansado.csproj|c:\\ana\\escuela\\poo\\practicas\\jugador-cansado\\jugador-cansado\\amateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB7552D-B7DA-D068-96F2-7EE5FD7A4B93}|Jugador-cansado\\Jugador-cansado.csproj|solutionrelative:jugador-cansado\\amateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB7552D-B7DA-D068-96F2-7EE5FD7A4B93}|Jugador-cansado\\Jugador-cansado.csproj|c:\\ana\\escuela\\poo\\practicas\\jugador-cansado\\jugador-cansado\\jugador-cansado.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FDB7552D-B7DA-D068-96F2-7EE5FD7A4B93}|Jugador-cansado\\Jugador-cansado.csproj|solutionrelative:jugador-cansado\\jugador-cansado.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pro.cs",
+              "DocumentMoniker": "C:\\Ana\\Escuela\\poo\\practicas\\Jugador-cansado\\Jugador-cansado\\Pro.cs",
+              "RelativeDocumentMoniker": "Jugador-cansado\\Pro.cs",
+              "ToolTip": "C:\\Ana\\Escuela\\poo\\practicas\\Jugador-cansado\\Jugador-cansado\\Pro.cs",
+              "RelativeToolTip": "Jugador-cansado\\Pro.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T18:39:40.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IJugador.cs",
+              "DocumentMoniker": "C:\\Ana\\Escuela\\poo\\practicas\\Jugador-cansado\\Jugador-cansado\\IJugador.cs",
+              "RelativeDocumentMoniker": "Jugador-cansado\\IJugador.cs",
+              "ToolTip": "C:\\Ana\\Escuela\\poo\\practicas\\Jugador-cansado\\Jugador-cansado\\IJugador.cs",
+              "RelativeToolTip": "Jugador-cansado\\IJugador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T18:37:42.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Amateur.cs",
+              "DocumentMoniker": "C:\\Ana\\Escuela\\poo\\practicas\\Jugador-cansado\\Jugador-cansado\\Amateur.cs",
+              "RelativeDocumentMoniker": "Jugador-cansado\\Amateur.cs",
+              "ToolTip": "C:\\Ana\\Escuela\\poo\\practicas\\Jugador-cansado\\Jugador-cansado\\Amateur.cs",
+              "RelativeToolTip": "Jugador-cansado\\Amateur.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T18:37:06.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Jugador-cansado",
+              "DocumentMoniker": "C:\\Ana\\Escuela\\poo\\practicas\\Jugador-cansado\\Jugador-cansado\\Jugador-cansado.csproj",
+              "RelativeDocumentMoniker": "Jugador-cansado\\Jugador-cansado.csproj",
+              "ToolTip": "C:\\Ana\\Escuela\\poo\\practicas\\Jugador-cansado\\Jugador-cansado\\Jugador-cansado.csproj",
+              "RelativeToolTip": "Jugador-cansado\\Jugador-cansado.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-21T18:35:40.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Ana\\Escuela\\poo\\practicas\\Jugador-cansado\\Jugador-cansado\\Program.cs",
+              "RelativeDocumentMoniker": "Jugador-cansado\\Program.cs",
+              "ToolTip": "C:\\Ana\\Escuela\\poo\\practicas\\Jugador-cansado\\Jugador-cansado\\Program.cs",
+              "RelativeToolTip": "Jugador-cansado\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T18:19:35.304Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
