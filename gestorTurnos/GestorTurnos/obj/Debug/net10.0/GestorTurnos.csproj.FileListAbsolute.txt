@@ -1,0 +1,14 @@
+C:\Users\adehe\escuela\poo\gestorTurnos\GestorTurnos\bin\Debug\net10.0\GestorTurnos.exe
+C:\Users\adehe\escuela\poo\gestorTurnos\GestorTurnos\bin\Debug\net10.0\GestorTurnos.deps.json
+C:\Users\adehe\escuela\poo\gestorTurnos\GestorTurnos\bin\Debug\net10.0\GestorTurnos.runtimeconfig.json
+C:\Users\adehe\escuela\poo\gestorTurnos\GestorTurnos\bin\Debug\net10.0\GestorTurnos.dll
+C:\Users\adehe\escuela\poo\gestorTurnos\GestorTurnos\bin\Debug\net10.0\GestorTurnos.pdb
+C:\Users\adehe\escuela\poo\gestorTurnos\GestorTurnos\obj\Debug\net10.0\GestorTurnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adehe\escuela\poo\gestorTurnos\GestorTurnos\obj\Debug\net10.0\GestorTurnos.AssemblyInfoInputs.cache
+C:\Users\adehe\escuela\poo\gestorTurnos\GestorTurnos\obj\Debug\net10.0\GestorTurnos.AssemblyInfo.cs
+C:\Users\adehe\escuela\poo\gestorTurnos\GestorTurnos\obj\Debug\net10.0\GestorTurnos.csproj.CoreCompileInputs.cache
+C:\Users\adehe\escuela\poo\gestorTurnos\GestorTurnos\obj\Debug\net10.0\GestorTurnos.dll
+C:\Users\adehe\escuela\poo\gestorTurnos\GestorTurnos\obj\Debug\net10.0\refint\GestorTurnos.dll
+C:\Users\adehe\escuela\poo\gestorTurnos\GestorTurnos\obj\Debug\net10.0\GestorTurnos.pdb
+C:\Users\adehe\escuela\poo\gestorTurnos\GestorTurnos\obj\Debug\net10.0\GestorTurnos.genruntimeconfig.cache
+C:\Users\adehe\escuela\poo\gestorTurnos\GestorTurnos\obj\Debug\net10.0\ref\GestorTurnos.dll

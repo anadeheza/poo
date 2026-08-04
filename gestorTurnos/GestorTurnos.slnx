@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="GestorTurnos/GestorTurnos.csproj" />
+  <Project Path="GestorTurnos.Tests/GestorTurnos.Tests.csproj" />
+</Solution>
